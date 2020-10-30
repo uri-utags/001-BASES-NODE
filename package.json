@@ -1,0 +1,19 @@
+{
+  "name": "001-bases-node",
+  "version": "1.0.0",
+  "description": "es una aplicacion para aprender a multiplicar",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "multiplicacion",
+    "tabla"
+  ],
+  "author": "Sebastian Guerra",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^14.11.2",
+    "yargs": "^16.0.3"
+  }
+}
